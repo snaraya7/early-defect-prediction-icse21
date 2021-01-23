@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/332297400.svg)](https://zenodo.org/badge/latestdoi/332297400)
+
 # [Paper: Early Life Cycle Software Defect Prediction. Why? How?](https://arxiv.org/pdf/2011.13071.pdf) 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Alarm_Clock_Vector.svg" width="350">
